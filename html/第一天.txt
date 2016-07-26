@@ -1,0 +1,11 @@
+1.background:url（2.JPG）背景图片相对路径
+  background:url(D:Documents\\Pictures\\2.jpg)  绝对路径
+  background:url(http://s8.sinaimg.cn/bmiddle/5fc82489gx6Dj60yHlB57&690) 网络路径
+
+2.border:solid(实线) dashed(虚线) dotted(点线，各个浏览器显示不一样)
+
+3.padding：内边距，相当于给盒子内加填充物，会改变盒子大小。
+
+4.margin：外边距，上下外边距会叠加；当父子级盒子嵌套时，若父级盒子没有任何内容（连边框都没  
+
+       有），那么子级的margin-top会传递给父级，即等价于该margin-top属性赋予了父级盒子。
